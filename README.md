@@ -11,3 +11,4 @@ This is one of the Ruby on Rails projects recommended by [Microverse](https://ww
 ## Contributors
 
 * Darshan - [Github Profile](https://github.com/daashandayo)
+* Bellom -  [Github Profile](https://github.com/bellom)
